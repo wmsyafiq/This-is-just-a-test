@@ -1,2 +1,1 @@
-Hi this is the first Linux project
-
+Hello this is the first linux project
